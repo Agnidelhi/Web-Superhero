@@ -1,19 +1,18 @@
 body{
-    background-color: floralwhite;
+    background-color: rgba(255, 81, 0, 0.644);
 }
 h1{
     font-size: 30px;
-    color: pink;
+    color: rgba(241, 109, 21, 0.959);
 }
 .uppercase{
     text-transform: uppercase;
 }
 .big{
-    font-size: 50px;
+    font-size: 10px;
 }
 .big.uppercase{
-    font-size: 50px;
-    color: yellowgreen;
+    font-size: 100px;
 }
 
 span{
