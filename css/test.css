@@ -1,0 +1,26 @@
+body{
+    background-color: floralwhite;
+}
+h1{
+    font-size: 30px;
+    color: pink;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.big{
+    font-size: 50px;
+}
+.big.uppercase{
+    font-size: 50px;
+    color: yellowgreen;
+}
+
+span{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: teal;
+}
+h2 span{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: red;
+}
