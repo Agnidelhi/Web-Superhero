@@ -1,12 +1,17 @@
-h1 h2{
+h1 {
+    font-size: 30px;
+    color: rgba(21, 80, 241, 0.959);
+}
+h2 {
     font-size: 30px;
     color: rgba(241, 109, 21, 0.959);
 }
+
 .uppercase{
     text-transform: uppercase;
 }
 .big{
-    font-size: 10px;
+    font-size: 50px;
 }
 .big.uppercase{
     font-size: 100px;
