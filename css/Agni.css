@@ -25,4 +25,11 @@ header h1{
 h3{
     color: white;
     font-family: 'Courier New', Courier, monospace;
+=======
+    background-color: #d14635;
+}
+header{
+    text-align: center;
+    border: 10px solid;
+>>>>>>> 633063cff9177abba45eef6af840b1850e2cef50
 }
